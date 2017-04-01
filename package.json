@@ -1,0 +1,19 @@
+{
+  "name": "rn-view-pager",
+  "version": "1.0.0",
+  "description": "View Pager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanzotov/rn-view-pager.git"
+  },
+  "author": "Ivan Zotov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanzotov/rn-view-pager/issues"
+  },
+  "homepage": "https://github.com/ivanzotov/rn-view-pager#readme"
+}
