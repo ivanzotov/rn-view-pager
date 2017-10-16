@@ -13,17 +13,6 @@ import styles from './styles'
 const deviceWidth = Dimensions.get('window').width
 
 class ViewPager extends Component {
-  static propTypes = {
-    selectedIndex: PropTypes.number,
-    style: PropTypes.any,
-    bounces: PropTypes.bool,
-    children: PropTypes.any,
-    onScroll: PropTypes.func,
-    count: PropTypes.number,
-    animated: PropTypes.bool,
-    onSelectedIndexChange: PropTypes.func,
-  }
-
   state = {
     width: 0,
     height: 0,
@@ -163,4 +152,3 @@ class ViewPager extends Component {
 }
 
 module.exports = ViewPager
-

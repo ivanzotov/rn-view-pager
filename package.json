@@ -1,6 +1,6 @@
 {
   "name": "rn-view-pager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "View Pager",
   "main": "index.js",
   "scripts": {
